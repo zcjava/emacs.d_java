@@ -55,4 +55,10 @@ build/
 
 ### VS Code ###
 .vscode/
-
+.lsp-session-v1
+.gitignore.swp
+workspace
+recentf
+elpa
+cache
+request
